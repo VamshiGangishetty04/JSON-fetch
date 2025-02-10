@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "cell_no": "+1234567890",
+      "email": "alice.johnson@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "cell_no": "+1987654321",
+      "email": "bob.smith@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Charlie Brown",
+      "cell_no": "+1122334455",
+      "email": "charlie.brown@example.com"
+    },
+    {
+      "id": "4",
+      "name": "Diana Prince",
+      "cell_no": "+1223344556",
+      "email": "diana.prince@example.com"
+    },
+    {
+      "id": "5",
+      "name": "Ethan Hunt",
+      "cell_no": "+1334455667",
+      "email": "ethan.hunt@example.com"
+    },
+    {
+      "id": "6",
+      "name": "Fiona Gallagher",
+      "cell_no": "+1445566778",
+      "email": "fiona.gallagher@example.com"
+    },
+    {
+      "id": "7",
+      "name": "George Miller",
+      "cell_no": "+1556677889",
+      "email": "george.miller@example.com"
+    },
+    {
+      "id": "8",
+      "name": "Hannah Davis",
+      "cell_no": "+1667788990",
+      "email": "hannah.davis@example.com"
+    },
+    {
+      "id": "9",
+      "name": "Ian Wright",
+      "cell_no": "+1778899001",
+      "email": "ian.wright@example.com"
+    },
+    {
+      "id": "10",
+      "name": "Julia Roberts",
+      "cell_no": "+1889900112",
+      "email": "julia.roberts@example.com"
+    }
+  ]
+}
